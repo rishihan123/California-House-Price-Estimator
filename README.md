@@ -1,5 +1,7 @@
-# California-House-Price-Estimator
-Machine Learning House Price Prediction Model      
+# House-Price-Estimator
+Machine Learning House Price Prediction Model 
+
+Model predicts California House Prices from neighbourhood features using the scikit-learn built in California houses dataset.
 
 Early stopping, random seeds and regularizers were implemented as the model kept overfitting and was giving inconsistent values every time it was trained.
 
